@@ -1,4 +1,7 @@
 # Snake-Game
- Jogo da cobrinha
+
+:point_right: Jogo da cobrinha.
+
+:heavy_check_mark: HTML/CSS :heavy_check_mark: JavaScript
  
- https://dmssantos.github.io/Snake-Game/
+:arrow_right: https://dmssantos.github.io/Snake-Game/
