@@ -2,8 +2,8 @@
 
 :point_right: Jogo da cobrinha.
 
-:heavy_check_mark: HTML/CSS
+:ballot_box_with_check: HTML/CSS
 
-:heavy_check_mark: JavaScript
+:ballot_box_with_check: JavaScript
  
-:arrow_right: https://dmssantos.github.io/Snake-Game/
+:link: https://dmssantos.github.io/Snake-Game/
